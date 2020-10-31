@@ -10,7 +10,7 @@
 <body>
 
 
-<p><a href = "ltoosaint24.github.io/index.html"> <h2>Professional Portfolio:</h3> </p></a>
+<p><a href = "https://ltoosaint24.github.io/index.html"> <h2>Professional Portfolio:</h3> </p></a>
 <p>I would like to casually introduce myself within the GitHub data platform. The current portfolio would an initial documentation piece of my current data activities. Click on the link to view the full profile. </p>
 <p><h2>Collab Notebook</h2></p>
 <p>Problem Statement:</p>
@@ -28,7 +28,7 @@ H1: There may not be any significant direct correlations to pollution and deaths
 </p>
 
 
-<p><a href ="ltoosaint24.github.io/pollution_blog.html "><h2> Blog </h2></a></p>
+<p><a href ="http://ltoosaint24.github.io/pollution_blog.html "><h2> Blog </h2></a></p>
 <p> Alongside of the data analysis notebook. There is an active discussion of the elements being observed and the statistical values that are derived from the data platform being studied. </p>
   
   
