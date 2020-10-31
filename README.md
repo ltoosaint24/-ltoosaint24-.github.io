@@ -27,6 +27,7 @@ H1: There may not be any significant direct correlations to pollution and deaths
 
 </p>
 
+
 <p><a href ="pollution_blog.html "><h2> Blog </h2></a></p>
 <p> Alongside of the data analysis notebook. There is an active discussion of the elements being observed and the statistical values that are derived from the data platform being studied. </p>
   
